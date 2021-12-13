@@ -1,0 +1,21 @@
+{
+  "name": "programmatic-login-with-cypress",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate how to programmatically log in using Cypress.",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Cypress.io",
+    "Talking About Testing",
+    "Programmatic login with Cypress",
+    "cy.handsOn()",
+    "Modern Web Testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}

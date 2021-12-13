@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:9000",
+  "env": {
+    "apiUrl": "http://localhost:3000"
+  },
+  "fixturesFolder": false,
+  "pluginsFile": false
+}
